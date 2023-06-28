@@ -1,0 +1,60 @@
+li{
+    display: inline;
+    padding: 20px;
+    left: 20px;
+  }
+
+#mainp{
+    background-color: black;
+    width: 100%;
+}
+
+#taskb{
+    height: 50px;
+    background-color: white;
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: solid;
+
+    
+}
+
+.task{
+        text-decoration: none;
+        color: black;
+        position: relative;
+        left: 300px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bold;
+        font-size: 20px;
+    
+
+}
+
+.button1{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    position: relative;
+    left: 970px;
+    bottom: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+}
+
+#fimg{
+    position: relative;
+    left: 980px;
+
+}
+#jym{
+    color: white;
+}
+
+#formidjym{
+    position: relative;
+    left: 100px;
+    bottom: 800px;
+    width: 500px;
+    background-color: blue;
+}
